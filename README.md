@@ -1,3 +1,169 @@
+<div align="center">
+
+# Abdullah Chauhdary
+
+### Building AI products, intelligent automations, and software that solves real problems.
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  •
+  <a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
+  •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science student from Pakistan with a strong interest in AI Engineering, Software Development, and Entrepreneurship.
+
+I enjoy building products that automate repetitive work, improve business workflows, and create real-world value through software.
+
+Currently focused on:
+
+- AI Agents
+- AI Automations
+- Full Stack Development
+- Backend Systems
+- Developer Tools
+- Open Source
+
+---
+
+## Tech Stack
+
+### Languages
+
+`JavaScript` `TypeScript` `Python` `SQL`
+
+### Frontend
+
+`React`
+`Next.js`
+`Tailwind CSS`
+`HTML`
+`CSS`
+
+### Backend
+
+`Node.js`
+`Express`
+`REST APIs`
+`Firebase`
+`Supabase`
+
+### AI
+
+`OpenAI`
+`Gemini`
+`n8n`
+`Prompt Engineering`
+`RAG`
+`LLMs`
+
+### Database
+
+`MongoDB`
+`PostgreSQL`
+`Firebase`
+
+### Tools
+
+`Git`
+`GitHub`
+`Docker`
+`VS Code`
+`Postman`
+`Figma`
+`Linux`
+
+---
+
+## Current Focus
+
+- Building AI workflow automations
+- Learning system design
+- Contributing to open source
+- Shipping production-ready applications
+- Exploring scalable SaaS products
+
+---
+
+## Featured Projects
+
+### AI Automation Agency
+
+Helping businesses automate repetitive work using AI Agents, WhatsApp bots, workflow automation and custom integrations.
+
+---
+
+### AICO
+
+An AI-powered content operating system that transforms daily work into social content automatically.
+
+---
+
+### Resume Generator
+
+Desktop application that generates professional resumes from user input.
+
+---
+
+### Subtitle Generator
+
+AI-assisted tool that converts long-form videos into captioned short-form content.
+
+---
+
+## Philosophy
+
+> Build things.
+>
+> Ship them.
+>
+> Learn from users.
+>
+> Repeat.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+<p align="center">
+
+Always building something.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Abdullah Chauhdary</h1>
 <h3 align="center">A Passionate Computer Science Student and Entrepreneur from Pakistan.</h3>
 
@@ -54,7 +220,7 @@
 
 
 
-<!--## Hi there 👋
+## Hi there 👋
 **Abdullah-Chaudary/Abdullah-Chaudary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
